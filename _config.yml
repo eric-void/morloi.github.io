@@ -1,0 +1,12 @@
+# Site settings
+title: Mosaico.io News and Blog
+email: your-email@domain.com
+description: > # News from Mosaico Template Editor.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.mosaico.it" # the base hostname & protocol for your site
+twitter_username: mosaicoeditor
+github_username:  bago
+
+# Build settings
+markdown: kramdown
+gems: ['jekyll-less']
