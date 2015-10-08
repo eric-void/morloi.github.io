@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "Prova prova"
+title:  "MODIFICA prova"
 date:   2015-10-08 15:57:21
 categories: jekyll update
 ---
 You’lfs ds sf ds
-fs df
+fs df sdfsf sds f 
 ssf ssdf sd sd
+df s
+ f
+ 
+ f ds dsf
+  sdfs d
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
